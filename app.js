@@ -1,8 +1,16 @@
-// this is my app.js
+// this is my app.js and code flow start start from here
 
 console.log("this is the javascript file")
 
 // module/funation/ add 
-function sum(a,b) {
+function add(a,b) {
     return a + b;
 }
+
+//add form
+
+addForm = (formObject) => {
+
+    return formObject
+}
+
